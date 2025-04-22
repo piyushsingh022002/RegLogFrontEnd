@@ -5,7 +5,6 @@ import Login from './Components/Login';
 function App() {
   return (
     <div>
-      {/* Swap between <Register /> and <Login /> for now */}
       <Register />
        <Login /> 
     </div>

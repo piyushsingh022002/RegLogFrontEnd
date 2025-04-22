@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import axios from 'axios';
+import axios from '../api'; // Adjust the path based on where api.js is
+
 import '../styles/auth.css';
 
 const Register = () => {
